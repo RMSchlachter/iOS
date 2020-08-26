@@ -1,8 +1,6 @@
 //
 //  AppDelegate.swift
 //
-//  Copyright © 2019 Ryan. All rights reserved.
-//
 
 import UIKit
 import CoreData
